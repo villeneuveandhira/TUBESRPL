@@ -1,14 +1,14 @@
 # TUBESRPL
 ada 3 akun buat testing:
 <br />
-- akun admin<br />
+1. akun admin<br />
 username : admin<br />
 password : admin<br />
 <br />
-- akun developer
+2. akun developer
 username : fauzan<br />
 password : fauzan<br />
 <br />
-- akun reviewer
+3. akun reviewer
 username : rayhan<br />
 password : rayhan<br />
