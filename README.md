@@ -1,7 +1,7 @@
 # TUBESRPL
 ada 3 akun buat testing:
 <br />
-1. akun admin<br />
+1. akun admin
 username : admin<br />
 password : admin<br />
 <br />
